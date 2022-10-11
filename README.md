@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! My name is Maksym, and I am a software developer with experience in writing Python scripts, backend development, API development for web and mobile applications, database web apps using Python, Django, Rust, C++, Machine Learning Algorithms, Image processing, Data processing.
 
-<!--
-**niektovm124/niektovm124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on long term project with full time 
+- 🤔 I’m looking for help with your ideas come to fruition and will put my all into your projects. 
+- 💬 
+Software
+- Written in Python
+- In-line documentation of code for future expansion
+- Stylized user interface design (Premium)
+- Any API integration
 
-Here are some ideas to get you started:
+Example Projects
+- Automated dashboard for monitoring KERN machine data (Google Drive API and Google App Scripts)
+- Image capturing and measurements of bioluminescent chemical reactions (QML and Raspberry Pi hardware integration)
+- Compatible computer part picking website (Django and SQLite3 database)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
